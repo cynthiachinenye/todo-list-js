@@ -87,7 +87,7 @@ if(item.classList[0] === "complete-btn"){
                       todo.style.display="flex";
 
                     }else{
-                        todo.syle.display="none"
+                        todo.style.display="none"
                     }
                     break;
         }
